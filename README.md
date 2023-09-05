@@ -42,5 +42,5 @@ At the main folder execute the following command in console to get the required 
 At the main folder execute the following command in console to run the development server:
 
 ```bash
-  npm run dev
+  npm start
 ```
